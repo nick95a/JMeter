@@ -1,7 +1,7 @@
 # JMeter
 Нагрузочные тесты для двух эндпоинтов в JMeter.
 
-Работаем с API agentapp. </br>
+Работаем с API AgentApp. </br>
 Ссылка на документ: https://docs.google.com/document/d/1GkCP0HGfPz9EBk6piCPmGqMBRn3ETeYUcQao-IW9GIc/edit </br>
 URL / Host: https://partner.agentapp.ru/
 
